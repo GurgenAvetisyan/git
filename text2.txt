@@ -8,53 +8,6 @@ Mode                LastWriteTime         Length Name
 -a----       05.03.2021     13:07             12 .gitignore                                                                             
 
 
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
-
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
-
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
-
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
-
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
-
-    Каталог: C:\Users\Gugo\Desktop\GIT-test
-
-
-Mode                LastWriteTime         Length Name                                                                                   
-----                -------------         ------ ----                                                                                   
--a----       05.03.2021     13:07             12 .gitignore                                                                             
-
 
     Каталог: C:\Users\Gugo\Desktop\GIT-test
 
